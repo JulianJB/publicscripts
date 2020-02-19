@@ -3,6 +3,6 @@
 
 (function () {
 
-    //alert('Ay mama que me den mas tequila');
+    alert('Ay mama que me den mas tequila');
 
 })(); // Alias jQuery to $ in our wrapper function.
